@@ -35,7 +35,7 @@
 
 <p align="center">
 <a href="www.linkedin.com/in/francisco-siri-fullstack/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francisco%20Siri%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:francisco_siri7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-francisco_siri7@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:francisco.siri7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-francisco.siri7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [GitHub](https://github.com/fransiri7)
